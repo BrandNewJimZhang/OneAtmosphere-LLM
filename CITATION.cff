@@ -1,0 +1,41 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite the paper below."
+title: "OneAtmos-Bench"
+type: dataset
+authors:
+  - family-names: Dai
+    given-names: Shiqin
+  - family-names: Wu
+    given-names: Qingru
+    orcid: "https://orcid.org/0000-0003-3381-4767"
+  - family-names: Zhang
+    given-names: Haowen
+  - family-names: Wang
+    given-names: Yan
+  - family-names: Wang
+    given-names: Shuxiao
+    orcid: "https://orcid.org/0000-0001-9727-1963"
+repository-code: "https://github.com/BrandNewJimZhang/OneAtmosphere-LLM"
+preferred-citation:
+  type: article
+  title: "Evaluating the Performance of Large Language Models for One Atmosphere Using Automated Extracted Datasets"
+  authors:
+    - family-names: Dai
+      given-names: Shiqin
+    - family-names: Wu
+      given-names: Qingru
+      orcid: "https://orcid.org/0000-0003-3381-4767"
+    - family-names: Zhang
+      given-names: Haowen
+    - family-names: Wang
+      given-names: Yan
+    - family-names: Wang
+      given-names: Shuxiao
+      orcid: "https://orcid.org/0000-0001-9727-1963"
+  journal: "Environmental Science & Technology"
+  year: 2026
+  volume: 60
+  issue: 1
+  start: 725
+  end: 735
+  doi: "10.1021/acs.est.5c10297"
