@@ -77,6 +77,10 @@ If you use this dataset, please cite:
 }
 ```
 
+## 📜 License
+
+The dataset is released under terms consistent with the copyright of the associated journal article: **free for academic and non-commercial research use with citation**; commercial use requires prior written permission from the authors. Model-response columns may additionally be subject to the respective model providers' terms. See [`LICENSE`](./LICENSE) for the full terms.
+
 ## 🙏 Acknowledgements
 
 We thank domain experts from the atmospheric physics and chemistry, air pollution, and climate science communities for their contributions to the validation and refinement of this dataset.
